@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: cursive;
+    background-color: peachpuff;
+    margin: 0;
+}
+h1 , p , td{
+    text-align: center;
+}
+h2,marquee{
+    background: linear-gradient(90deg, pink, crimson);
+   /* text-align: center;  */
+    padding: 10px;
+    box-shadow: 0 0 10px black; 
+	font-size: 40px;
+
+}
+table{
+    width: 100%;
+}
+img , iframe{
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
