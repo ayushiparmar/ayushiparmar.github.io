@@ -9,9 +9,9 @@ body{
 h1 , p , td{
     text-align: center;
 }
-h2,marquee{
+h2{
     background: linear-gradient(90deg, pink, crimson);
-   /* text-align: center;  */
+	text-align: center;
     padding: 10px;
     box-shadow: 0 0 10px black; 
 	font-size: 40px;
